@@ -199,7 +199,7 @@ document.addEventListener("DOMContentLoaded", () => {
                CREATE EMAIL
                ================================================= */
 
-            const recipient = "piyush664128sharma@mail.com";
+            const recipient = "piyush664128sharma@gmail.com";
 
             const subject =
                 `Portfolio Contact Message from ${nameValue}`;
